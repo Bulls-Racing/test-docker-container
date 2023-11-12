@@ -1,5 +1,5 @@
 #include "vds.h"
 
-int add(int x, int y) {
+int vds::add(int x, int y) {
     return x + y;
 }
